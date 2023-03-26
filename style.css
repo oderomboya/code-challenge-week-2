@@ -1,8 +1,21 @@
+body{
+background-color: #2cb9b5;
 
+}
   
   #container{
     text-align: center;
 border: 3px solid black;
-padding: 0% 0%; 0%;
+margin-left: 35% ;
+margin-right: 35%;
+margin-top: 5%;
+padding-bottom: 5%;
 
   }
+
+#image{
+
+  border: 3px solid black;
+
+
+}
